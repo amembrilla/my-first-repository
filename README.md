@@ -9,3 +9,5 @@ Important steps for git workflow:
 4. Stage changes for commit
 5. Commit changes to versio history
 6. Review previous changes with git log
+
+I've added some new test content
