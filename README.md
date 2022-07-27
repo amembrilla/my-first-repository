@@ -11,3 +11,4 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 I've added some new test content
+A change on the Github GUI has been added.
